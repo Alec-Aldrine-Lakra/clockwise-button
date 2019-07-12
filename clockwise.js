@@ -18,7 +18,7 @@ function change()
     while (row < m && col < n) 
     { 
 
-        if (row + 1 == m || col + 1 == n) 
+        if (row + 1 === m || col + 1 === n) 
             break; 
 
         // Store the first element of next row, this 
