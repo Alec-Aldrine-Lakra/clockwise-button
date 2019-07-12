@@ -1,0 +1,13 @@
+#btns
+{
+  position: relative;
+  width: 75%;
+}
+button:nth-child(n)
+{
+  position: relative;
+  width:30%;
+  height: 48px;
+  font-size: 24px;
+}
+     
